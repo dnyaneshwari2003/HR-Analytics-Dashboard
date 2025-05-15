@@ -10,12 +10,12 @@
 
 #### Built using Power BI:
 
----
+
 ## 📌 Overview
 
 The **HR Analytics Dashboard** is an interactive Power BI report designed to provide full insight into the workforce of an organization. It offers a comprehensive breakdown of employee data such as promotions, job levels, department-wise distribution, gender diversity, and tenure. This dashboard helps HR teams make informed decisions and identify action areas quickly.
 
----
+
 
 ## 🧩 Dashboard Sections
 
@@ -73,7 +73,7 @@ Dives deeper into:
 * Enhances visibility into workforce demographics.
 * Facilitates proactive planning for promotions and role assignments.
 
----
+
 
 ## 👨‍💼 Ideal For
 
@@ -82,7 +82,7 @@ Dives deeper into:
 * Department Heads
 * Business Analysts
 
----
+
 
 ## 🖥️ How to Use
 
@@ -90,7 +90,7 @@ Dives deeper into:
 2. Use the sidebar navigation to switch between **Home**, **Action**, and **Detail** views.
 3. Explore filters and slicers to customize your analysis.
 
----
+
 
 ## 📌 Notes
 
@@ -98,5 +98,5 @@ Dives deeper into:
 * Designed with clean visuals and accessibility in mind.
 * Fully interactive and easy to extend.
 
----
+
 
